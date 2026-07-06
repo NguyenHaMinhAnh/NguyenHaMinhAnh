@@ -3,12 +3,16 @@
 🎓 Sinh viên ngành **Hệ thống Thông tin Quản lý**  
 🏫 Trường Đại học Tài chính – Marketing  
 📍 TP. Hồ Chí Minh, Việt Nam  
+📧 Email: [at.nguyenhaminhanhh@gmail.com](mailto:at.nguyenhaminhanhh@gmail.com)  
+📞 Số điện thoại: 0396600815  
+🌐 Portfolio: [nguyenhaminhanh.github.io](https://nguyenhaminhanh.github.io)  
+💻 GitHub: [github.com/NguyenHaMinhAnh](https://github.com/NguyenHaMinhAnh)
 
 ## Định hướng nghề nghiệp
 
-Mình đang phát triển theo hướng **Business Analyst Intern, System Analyst Intern, Software Developer Intern** và quan tâm đến các lĩnh vực như phân tích nghiệp vụ, thiết kế hệ thống, cơ sở dữ liệu, phát triển phần mềm quản lý, ERP/CRM và UI/UX Design.
+Định hướng phát triển trong các vị trí **Business Analyst Intern, System Analyst Intern, Software Developer Intern, ERP/CRM Intern** và **UI/UX Intern**. Tập trung vào phân tích nghiệp vụ, thiết kế hệ thống, cơ sở dữ liệu, phát triển phần mềm quản lý, ERP/CRM và thiết kế trải nghiệm người dùng.
 
-Mình có kinh nghiệm thực hiện các dự án học tập và thực hành liên quan đến:
+Kinh nghiệm học tập và thực hành tập trung vào:
 
 - Phân tích yêu cầu người dùng
 - Thiết kế hệ thống thông tin
@@ -217,7 +221,7 @@ PawFeed là ý tưởng ứng dụng giúp kết nối người có thức ăn t
 ### Liên kết
 
 - Repository: [pawfeed-uiux-design](https://github.com/NguyenHaMinhAnh/pawfeed-uiux-design)
-- Figma Prototype: Thêm link Figma tại đây
+- Figma Prototype: [Thêm link Figma tại đây](https://www.figma.com/design/2PZciGKj3Ic9ktySnB8xWk/2321003951_NguyenHaMinhAnh?node-id=0-1&t=9LaSMoHmvhKkTRZW-1)
 
 ---
 
@@ -281,7 +285,8 @@ Các môn học và lĩnh vực liên quan:
 
 ## Liên hệ
 
-📧 Email: at.nguyenhaminhanhh@gmail.com  
+📧 Email: [at.nguyenhaminhanhh@gmail.com](mailto:at.nguyenhaminhanhh@gmail.com)  
+📞 Số điện thoại: 0396600815  
 📍 Location: TP. Hồ Chí Minh, Việt Nam  
 🌐 Portfolio: [nguyenhaminhanh.github.io](https://nguyenhaminhanh.github.io)  
 💻 GitHub: [github.com/NguyenHaMinhAnh](https://github.com/NguyenHaMinhAnh)
@@ -290,7 +295,7 @@ Các môn học và lĩnh vực liên quan:
 
 ## Mục tiêu hiện tại
 
-Mình đang tìm kiếm cơ hội thực tập trong các vị trí:
+Đang tìm kiếm cơ hội thực tập trong các vị trí:
 
 - Business Analyst Intern
 - System Analyst Intern
@@ -298,4 +303,4 @@ Mình đang tìm kiếm cơ hội thực tập trong các vị trí:
 - ERP/CRM Intern
 - UI/UX Intern
 
-Mình mong muốn được tham gia vào môi trường thực tế để tiếp tục phát triển kỹ năng phân tích nghiệp vụ, thiết kế hệ thống, xây dựng phần mềm và tạo ra các giải pháp công nghệ có giá trị cho tổ chức.
+Mục tiêu là được tham gia môi trường thực tế để tiếp tục phát triển kỹ năng phân tích nghiệp vụ, thiết kế hệ thống, xây dựng phần mềm và tạo ra các giải pháp công nghệ có giá trị cho tổ chức.
